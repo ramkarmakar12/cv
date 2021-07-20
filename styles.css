@@ -1,0 +1,108 @@
+body{
+    background-color: black;
+    margin: 0px;
+    text-align: center;
+    
+}
+div{
+    
+    margin-top: 20px;
+    color: white;
+  
+}
+h1{
+    font-family: 'Sacramento', cursive;
+    font-size: 562.5%;
+    padding-top: 100px;
+    margin-block-end: 0px;
+    margin: 0 auto 0 auto;
+    color: cyan;
+    font-weight: bolder;
+
+    
+}
+
+h2,h3{
+    font-family: 'Merriweather', serif;
+    color: skyblue;
+}
+
+p{
+    color:skyblue;
+    line-height: 1.7;
+    font-family: 'Merriweather', serif;
+}
+
+hr{
+    border-style: dotted;
+    border-bottom: none;
+    width: 30%;
+    margin: 80px auto 80px auto;
+}
+
+.first-container{
+    position: relative;
+    
+
+}
+
+.picture{
+    height: 200px; 
+    width: 200px;
+    padding-top: 50px;
+    
+}
+
+
+.pc{
+    width: 20%;
+    float: left;
+   margin-right: 30px;
+}
+
+.CPP{
+    width: 20%;
+    float: right;
+    margin-left: 30px;
+    
+}
+
+.python{
+    width: 20%;
+    padding-top: 20px;
+    float: left;
+   margin-right: 30px;
+}
+
+.cloud1{
+    position: absolute;
+    line-height: 10px;
+    right: 300px;
+    top: 50px;
+}
+
+.cloud2{
+    position: absolute;
+    line-height: 10px;
+    left: 300px;
+    bottom: 350px;
+}
+
+.mountain{
+    height: 400px;
+}
+
+
+.head-bio{
+    font-size: 32px;
+}
+
+.skill-row{
+    width: 50%;
+    margin: auto;
+    text-align: left;
+    line-height: 2;
+    padding: 30px;
+}
+
+
